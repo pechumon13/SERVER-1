@@ -1,0 +1,21 @@
+{
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-08-11 03:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-08-11 03:53:36 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-08-11 03:53:36 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
