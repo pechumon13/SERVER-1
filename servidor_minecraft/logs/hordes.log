@@ -1,0 +1,18 @@
+Trying to load common config
+Trying to load client config
+Hordes data does not exist, generating new files.
+Copied file config_defaults/hordes-info.json
+Copied file config_defaults/pack.mcmeta
+Copied file config_defaults/data/hordes/tags/worldgen/biome/husk_player_spawn_biomes.json
+Copied file config_defaults/data/hordes/tags/items/infection_cures.json
+Copied file config_defaults/data/hordes/tags/entity_types/infection_entities.json
+Copied file config_defaults/data/hordes/horde_data/tables/skeletons.json
+Copied file config_defaults/data/hordes/horde_data/tables/mixed_mobs.json
+Copied file config_defaults/data/hordes/horde_data/tables/illagers.json
+Copied file config_defaults/data/hordes/horde_data/tables/drowned.json
+Copied file config_defaults/data/hordes/horde_data/tables/default.json
+Copied file config_defaults/data/hordes/horde_data/scripts/default.json
+Copied file config_defaults/data/hordes/horde_data/infection_conversions.json
+Copied file config_defaults/data/hordes/horde_data/immunity_items.json
+Copied file config_defaults/data/hordes/horde_data/immune_wearables.json
+Generated data files.
